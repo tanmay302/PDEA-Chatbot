@@ -113,7 +113,9 @@ streamlit run app.py
 
 ## 📸 Demo (UI Screenshot)
 
-![PDEA Chatbot UI](Collections/chatbot_ui.png)
+<p align="center">
+  <img src="Collections/chatbot_ui.png" alt="Banner" height ="30%" width="100%">
+</p>
 
 ---
 
