@@ -179,4 +179,4 @@ Enhancing education with AI-driven solutions.
 
 ## 💡 Repository Description (Use on GitHub)
 
-AI-powered RAG chatbot for college enquiry automation using FAISS, LangChain, and LLMs (Under approval by PDEA)
+AI-powered RAG chatbot for PDEA College using FAISS and embeddings to enable fast, context-aware responses from institutional data. (Under approval)
