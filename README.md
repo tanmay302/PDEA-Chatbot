@@ -37,10 +37,9 @@ Automate student queries and reduce manual workload using AI.
 |----------------|-----------|
 | Language       | Python |
 | Framework      | Streamlit |
-| LLM            | OpenAI API |
+| LLM            | Google Gemini API|
 | Vector DB      | FAISS |
-| Embeddings     | OpenAI / HuggingFace |
-| NLP Framework  | LangChain |
+| Embeddings     | SentenceTransformers (all-MiniLM-L6-v2) |
 | Deployment     | Local (Cloud Ready) |
 
 ---
