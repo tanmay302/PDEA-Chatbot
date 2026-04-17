@@ -66,13 +66,38 @@ User Query → Embedding → FAISS Vector DB
 ```
 PDEA-Chatbot/
 │
-├── app.py
-├── rag_pipeline.py
-├── embeddings.py
-├── vector_store/
-├── data/
-├── utils/
-├── requirements.txt
+├── PDEA Chatbot/
+│   ├── Collections/
+│   │   ├── chatbot_ui.png
+│   │   ├── College_Chatbot_Training_Questions.pdf
+│   │   └── PDEA_Chatbot_Proposal.pdf
+│   │
+│   ├── config/
+│   │   └── settings.py
+│   │
+│   ├── data/
+│   │   ├── embeddings.npy
+│   │   ├── faiss.index
+│   │   ├── metadata.json
+│   │   └── pdea_chatbot_qa.json
+│   │
+│   ├── logs/
+│   │   └── unknown_questions.txt
+│   │
+│   ├── scripts/
+│   │
+│   ├── src/
+│   │   ├── api.py
+│   │   ├── embedder.py
+│   │   ├── gemini_api.py
+│   │   ├── main.py
+│   │   ├── rag_pipeline.py
+│   │   └── vector_store.py
+│   │
+│   ├── PDEA_Logo.png
+│   ├── app.py
+│   └── requirements.txt
+│
 └── README.md
 ```
 
@@ -150,22 +175,6 @@ Enhancing education with AI-driven solutions.
 
 **Tanmay Khedekar**  
 🔗 https://github.com/tanmay302  
-
----
-
-## ⭐ Support
-
-If you like this project:
-
-- ⭐ Star the repo  
-- 🔁 Share  
-- 🤝 Contribute  
-
----
-
-## 📜 License
-
-MIT License  
 
 ---
 
