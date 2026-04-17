@@ -113,10 +113,7 @@ streamlit run app.py
 
 ## 📸 Demo (UI Screenshot)
 
-> Add your screenshot in repo (recommended path: `assets/demo.png`)
-
-![PDEA Chatbot UI](Collections
-/Screenshot 2026-04-17 140106.png)
+![PDEA Chatbot UI](Collections/Screenshot%202026-04-17%20140106.png)
 
 ---
 
